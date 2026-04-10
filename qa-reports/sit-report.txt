@@ -1,0 +1,2 @@
+SIT: payment-gateway-svc QA
+Passed: 21 Failed: 0
