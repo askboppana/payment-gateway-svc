@@ -1,0 +1,2 @@
+UAT: payment-gateway-svc STAGE
+Status: PENDING APPROVAL
